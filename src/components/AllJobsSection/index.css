@@ -1,0 +1,43 @@
+.main-job-section {
+  display: flex;
+  background-color: black;
+  min-height: 100vh;
+}
+.failureView {
+  display: flex;
+  flex-direction: column;
+}
+.all-job-section {
+  display: flex;
+  flex-direction: column;
+}
+
+.input-value {
+  background-color: black;
+  border: 1px solid grey;
+  cursor: pointer;
+  color: grey;
+}
+
+.jobcard-section {
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+}
+.containersearch {
+  display: flex;
+  background-color: transparent;
+}
+.no-job-section {
+  display: flex;
+  flex-direction: column;
+}
+.head-no-job {
+  color: white;
+}
+.para-no-job {
+  color: white;
+}
+.jobdetailslist {
+  list-style-type: none;
+}

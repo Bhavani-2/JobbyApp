@@ -1,0 +1,31 @@
+.filter-group-container {
+  display: flex;
+  flex-direction: column;
+  margin-right: 30px;
+}
+.employeList {
+  list-style-type: none;
+}
+.salaryList {
+  list-style-type: none;
+}
+.employee-head {
+  color: white;
+}
+.employee-salary {
+  color: white;
+}
+.employee-label {
+  color: white;
+}
+.salary-label {
+  color: white;
+}
+.employee-type-container {
+  display: flex;
+  flex-direction: column;
+}
+.salary-container {
+  display: flex;
+  flex-direction: column;
+}

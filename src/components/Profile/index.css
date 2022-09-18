@@ -1,0 +1,33 @@
+.profile-failure-view {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.profile-retry-button {
+  background-color: blue;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  padding: 10px;
+}
+.profileView {
+  display: flex;
+  flex-direction: column;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  background-size: cover;
+  width: 300px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  padding: 10px;
+}
+.profile-image {
+  height: 40px;
+  width: 40px;
+}
+.name-head {
+  color: blue;
+}
+.bio {
+  color: #cbd5e1;
+}
